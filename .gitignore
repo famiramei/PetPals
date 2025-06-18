@@ -1,0 +1,29 @@
+# NetBeans-specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+*.orig
+
+# Common Java ignore
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+*.iml
+.idea/
+.vscode/
+
+# Maven/Gradle (optional, if you're using them)
+target/
+.gradle/
+out/
